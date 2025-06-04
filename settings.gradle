@@ -1,0 +1,2 @@
+rootProject.name = "Debashis-Admin"
+include ':app'
